@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "3HJH4SSKC5.com.innovitics.Shift",
+        "paths": [ "/registerScreen/chuffure", "/registerScreen/carSharing"]
+      }
+    ]
+  }
+}
